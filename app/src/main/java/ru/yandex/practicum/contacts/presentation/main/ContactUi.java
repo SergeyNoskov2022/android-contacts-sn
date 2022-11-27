@@ -3,7 +3,6 @@ package ru.yandex.practicum.contacts.presentation.main;
 import androidx.annotation.NonNull;
 
 import java.util.List;
-
 import ru.yandex.practicum.contacts.model.ContactType;
 import ru.yandex.practicum.contacts.presentation.base.ListDiffInterface;
 
